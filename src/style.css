@@ -1,1 +1,24 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: radial-gradient(transparent 79%, #000000 80%);
+  background-size: 3em 3em;
+  background-color: #b22c2c;
+  opacity: 1;
+}
+
+.topSuit {
+  font-size: 50px;
+  text-align: left;
+  margin-left: 20px;
+  padding-bottom: 100px;
+}
+
+.bottomSuit {
+  font-size: 50px;
+  text-align: right;
+  margin-right: 20px;
+  padding-top: 100px;
+}
+.rank {
+  font-size: 50px;
+}
